@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welcome, Developer person!</h2></summary>
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
